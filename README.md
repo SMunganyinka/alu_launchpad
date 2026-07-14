@@ -170,25 +170,26 @@ lib/
 
 ##  Screenshots
 
+
 ### Login Screen
 
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" width="200">
 
 ### Home Screen
 
-![Saved Opportunities Screen](screenshots/aved.png)
+<img src="screenshots/saved.png" width="200">
 
 ### Discover Opportunities
 
-![Discover](screenshots/discover.png)
+<img src="screenshots/discover.png" width="200">
 
 ### Applications
 
-![Applications](screenshots/applications.png)
+<img src="screenshots/applications.png" width="200">
 
 ### Profile
 
-![Profile](screenshots/profile.png)
+<img src="screenshots/profile.png" width="200">
 ```
 
 ---
